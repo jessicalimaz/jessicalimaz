@@ -1,6 +1,7 @@
 # Olá, seja bem vind@! 🤞
 
-<b> Me chama aqui <a href="https://www.linkedin.com/in/jéssica-lima-71060b167/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> </b>
+<b> Me chama aqui <a href="https://www.linkedin.com/in/jéssica-lima-71060b167/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt=""></a> </b> <a href = "mailto:jessicalimabitt@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
 -----------------------------------------------------------------------------------
 ✅ web full stack developer in progress 
 
